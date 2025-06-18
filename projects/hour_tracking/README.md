@@ -2,6 +2,11 @@
 
 > _Intended for employees whose employer manually tracks hours and you want to ensure that the numbers are accurate._
 
+## Install these modules
+
+```bash
+pip3 install openpyxl 
+```
 ## Key Notes
 
 - ✅ The script is understandable and easy to use.
